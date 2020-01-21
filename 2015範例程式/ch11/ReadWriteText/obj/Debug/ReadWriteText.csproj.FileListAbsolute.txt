@@ -1,0 +1,12 @@
+C:\cs2015\ch11\ReadWriteText\bin\Debug\ReadWriteText.exe.config
+C:\cs2015\ch11\ReadWriteText\obj\Debug\ReadWriteText.csprojResolveAssemblyReference.cache
+C:\cs2015\ch11\ReadWriteText\obj\Debug\ReadWriteText.Form1.resources
+C:\cs2015\ch11\ReadWriteText\obj\Debug\ReadWriteText.Properties.Resources.resources
+C:\cs2015\ch11\ReadWriteText\obj\Debug\ReadWriteText.csproj.GenerateResource.Cache
+C:\cs2015\ch11\ReadWriteText\bin\Debug\ReadWriteText.exe
+C:\cs2015\ch11\ReadWriteText\bin\Debug\ReadWriteText.pdb
+C:\cs2015\ch11\ReadWriteText\obj\Debug\ReadWriteText.exe
+C:\cs2015\ch11\ReadWriteText\obj\Debug\ReadWriteText.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch11_1020\ch11\ReadWriteText\bin\Debug\ReadWriteText.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch11_1020\ch11\ReadWriteText\obj\Debug\ReadWriteText.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch11_1020\ch11\ReadWriteText\obj\Debug\ReadWriteText.pdb

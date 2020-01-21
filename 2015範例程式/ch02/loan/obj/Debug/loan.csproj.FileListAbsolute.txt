@@ -1,0 +1,9 @@
+c:\cs2015\ch02\loan\bin\Debug\loan.exe.config
+c:\cs2015\ch02\loan\obj\Debug\loan.csprojResolveAssemblyReference.cache
+c:\cs2015\ch02\loan\obj\Debug\loan.Form1.resources
+c:\cs2015\ch02\loan\obj\Debug\loan.Properties.Resources.resources
+c:\cs2015\ch02\loan\obj\Debug\loan.csproj.GenerateResource.Cache
+c:\cs2015\ch02\loan\bin\Debug\loan.exe
+c:\cs2015\ch02\loan\bin\Debug\loan.pdb
+c:\cs2015\ch02\loan\obj\Debug\loan.exe
+c:\cs2015\ch02\loan\obj\Debug\loan.pdb

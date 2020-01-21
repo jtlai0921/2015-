@@ -1,0 +1,9 @@
+c:\cs2015\ch01\showTime\bin\Debug\showTime.exe.config
+c:\cs2015\ch01\showTime\obj\Debug\showTime.csprojResolveAssemblyReference.cache
+c:\cs2015\ch01\showTime\obj\Debug\showTime.Form1.resources
+c:\cs2015\ch01\showTime\obj\Debug\showTime.Properties.Resources.resources
+c:\cs2015\ch01\showTime\obj\Debug\showTime.csproj.GenerateResource.Cache
+c:\cs2015\ch01\showTime\bin\Debug\showTime.exe
+c:\cs2015\ch01\showTime\bin\Debug\showTime.pdb
+c:\cs2015\ch01\showTime\obj\Debug\showTime.exe
+c:\cs2015\ch01\showTime\obj\Debug\showTime.pdb

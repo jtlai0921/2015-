@@ -1,0 +1,11 @@
+C:\cs2015基礎必修\ch03\TryDemo\bin\Debug\TryDemo.exe.config
+C:\cs2015基礎必修\ch03\TryDemo\bin\Debug\TryDemo.exe
+C:\cs2015基礎必修\ch03\TryDemo\bin\Debug\TryDemo.pdb
+C:\cs2015基礎必修\ch03\TryDemo\obj\Debug\TryDemo.Form1.resources
+C:\cs2015基礎必修\ch03\TryDemo\obj\Debug\TryDemo.Properties.Resources.resources
+C:\cs2015基礎必修\ch03\TryDemo\obj\Debug\TryDemo.csproj.GenerateResource.Cache
+C:\cs2015基礎必修\ch03\TryDemo\obj\Debug\TryDemo.exe
+C:\cs2015基礎必修\ch03\TryDemo\obj\Debug\TryDemo.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\TryDemo\bin\Debug\TryDemo.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\TryDemo\obj\Debug\TryDemo.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\TryDemo\obj\Debug\TryDemo.pdb

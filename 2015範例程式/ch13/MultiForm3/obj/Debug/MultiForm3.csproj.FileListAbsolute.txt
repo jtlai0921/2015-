@@ -1,0 +1,13 @@
+C:\cs2015\ch13\MultiForm3\bin\Debug\MultiForm3.exe.config
+C:\cs2015\ch13\MultiForm3\bin\Debug\MultiForm3.exe
+C:\cs2015\ch13\MultiForm3\bin\Debug\MultiForm3.pdb
+C:\cs2015\ch13\MultiForm3\obj\Debug\MultiForm3.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\MultiForm3\obj\Debug\MultiForm3.frmCal.resources
+C:\cs2015\ch13\MultiForm3\obj\Debug\MultiForm3.frmMain.resources
+C:\cs2015\ch13\MultiForm3\obj\Debug\MultiForm3.Properties.Resources.resources
+C:\cs2015\ch13\MultiForm3\obj\Debug\MultiForm3.csproj.GenerateResource.Cache
+C:\cs2015\ch13\MultiForm3\obj\Debug\MultiForm3.exe
+C:\cs2015\ch13\MultiForm3\obj\Debug\MultiForm3.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\MultiForm3\bin\Debug\MultiForm3.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\MultiForm3\obj\Debug\MultiForm3.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\MultiForm3\obj\Debug\MultiForm3.pdb

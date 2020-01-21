@@ -1,0 +1,12 @@
+C:\cs2015基礎必修\ch04\Off\bin\Debug\Off.exe.config
+C:\cs2015基礎必修\ch04\Off\bin\Debug\Off.exe
+C:\cs2015基礎必修\ch04\Off\bin\Debug\Off.pdb
+C:\cs2015基礎必修\ch04\Off\obj\Debug\Off.csprojResolveAssemblyReference.cache
+C:\cs2015基礎必修\ch04\Off\obj\Debug\Off.Form1.resources
+C:\cs2015基礎必修\ch04\Off\obj\Debug\Off.Properties.Resources.resources
+C:\cs2015基礎必修\ch04\Off\obj\Debug\Off.csproj.GenerateResource.Cache
+C:\cs2015基礎必修\ch04\Off\obj\Debug\Off.exe
+C:\cs2015基礎必修\ch04\Off\obj\Debug\Off.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\ch04範例\Off\bin\Debug\Off.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\ch04範例\Off\obj\Debug\Off.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\ch04範例\Off\obj\Debug\Off.pdb

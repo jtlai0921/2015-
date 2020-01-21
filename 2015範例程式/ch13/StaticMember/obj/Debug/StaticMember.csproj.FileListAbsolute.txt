@@ -1,0 +1,12 @@
+C:\cs2015\ch13\StaticMember\bin\Debug\StaticMember.exe.config
+C:\cs2015\ch13\StaticMember\bin\Debug\StaticMember.exe
+C:\cs2015\ch13\StaticMember\bin\Debug\StaticMember.pdb
+C:\cs2015\ch13\StaticMember\obj\Debug\StaticMember.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\StaticMember\obj\Debug\StaticMember.Form1.resources
+C:\cs2015\ch13\StaticMember\obj\Debug\StaticMember.Properties.Resources.resources
+C:\cs2015\ch13\StaticMember\obj\Debug\StaticMember.csproj.GenerateResource.Cache
+C:\cs2015\ch13\StaticMember\obj\Debug\StaticMember.exe
+C:\cs2015\ch13\StaticMember\obj\Debug\StaticMember.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\StaticMember\bin\Debug\StaticMember.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\StaticMember\obj\Debug\StaticMember.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\StaticMember\obj\Debug\StaticMember.pdb

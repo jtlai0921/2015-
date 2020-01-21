@@ -1,0 +1,12 @@
+C:\cs2015基礎必修\ch03\Movie\bin\Debug\Movie.exe.config
+C:\cs2015基礎必修\ch03\Movie\bin\Debug\Movie.exe
+C:\cs2015基礎必修\ch03\Movie\bin\Debug\Movie.pdb
+C:\cs2015基礎必修\ch03\Movie\obj\Debug\Movie.csprojResolveAssemblyReference.cache
+C:\cs2015基礎必修\ch03\Movie\obj\Debug\Movie.Form1.resources
+C:\cs2015基礎必修\ch03\Movie\obj\Debug\Movie.Properties.Resources.resources
+C:\cs2015基礎必修\ch03\Movie\obj\Debug\Movie.csproj.GenerateResource.Cache
+C:\cs2015基礎必修\ch03\Movie\obj\Debug\Movie.exe
+C:\cs2015基礎必修\ch03\Movie\obj\Debug\Movie.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\Movie\bin\Debug\Movie.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\Movie\obj\Debug\Movie.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\Movie\obj\Debug\Movie.pdb

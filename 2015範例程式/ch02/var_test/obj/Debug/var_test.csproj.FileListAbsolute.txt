@@ -1,0 +1,8 @@
+c:\cs2015\ch02\var_test\bin\Debug\var_test.exe.config
+c:\cs2015\ch02\var_test\bin\Debug\var_test.exe
+c:\cs2015\ch02\var_test\bin\Debug\var_test.pdb
+c:\cs2015\ch02\var_test\obj\Debug\var_test.Form1.resources
+c:\cs2015\ch02\var_test\obj\Debug\var_test.Properties.Resources.resources
+c:\cs2015\ch02\var_test\obj\Debug\var_test.csproj.GenerateResource.Cache
+c:\cs2015\ch02\var_test\obj\Debug\var_test.exe
+c:\cs2015\ch02\var_test\obj\Debug\var_test.pdb

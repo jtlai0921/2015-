@@ -1,0 +1,12 @@
+C:\cs2015基礎必修\ch04\Operation\bin\Debug\Operation.exe.config
+C:\cs2015基礎必修\ch04\Operation\bin\Debug\Operation.exe
+C:\cs2015基礎必修\ch04\Operation\bin\Debug\Operation.pdb
+C:\cs2015基礎必修\ch04\Operation\obj\Debug\Operation.csprojResolveAssemblyReference.cache
+C:\cs2015基礎必修\ch04\Operation\obj\Debug\Operation.Form1.resources
+C:\cs2015基礎必修\ch04\Operation\obj\Debug\Operation.Properties.Resources.resources
+C:\cs2015基礎必修\ch04\Operation\obj\Debug\Operation.csproj.GenerateResource.Cache
+C:\cs2015基礎必修\ch04\Operation\obj\Debug\Operation.exe
+C:\cs2015基礎必修\ch04\Operation\obj\Debug\Operation.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\ch04範例\Operation\bin\Debug\Operation.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\ch04範例\Operation\obj\Debug\Operation.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch04\ch04範例\Operation\obj\Debug\Operation.pdb

@@ -1,0 +1,11 @@
+C:\cs2015\ch12\Rect\bin\Debug\Rect.exe.config
+C:\cs2015\ch12\Rect\bin\Debug\Rect.exe
+C:\cs2015\ch12\Rect\bin\Debug\Rect.pdb
+C:\cs2015\ch12\Rect\obj\Debug\Rect.Form1.resources
+C:\cs2015\ch12\Rect\obj\Debug\Rect.Properties.Resources.resources
+C:\cs2015\ch12\Rect\obj\Debug\Rect.csproj.GenerateResource.Cache
+C:\cs2015\ch12\Rect\obj\Debug\Rect.exe
+C:\cs2015\ch12\Rect\obj\Debug\Rect.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\Rect\bin\Debug\Rect.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\Rect\obj\Debug\Rect.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\Rect\obj\Debug\Rect.pdb

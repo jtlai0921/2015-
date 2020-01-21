@@ -1,0 +1,9 @@
+C:\cs2015\ch13\InheritsForm\bin\Debug\InheritsForm.exe.config
+C:\cs2015\ch13\InheritsForm\bin\Debug\InheritsForm.exe
+C:\cs2015\ch13\InheritsForm\bin\Debug\InheritsForm.pdb
+C:\cs2015\ch13\InheritsForm\obj\Debug\InheritsForm.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\InheritsForm\obj\Debug\InheritsForm.exe
+C:\cs2015\ch13\InheritsForm\obj\Debug\InheritsForm.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\InheritsForm\bin\Debug\InheritsForm.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\InheritsForm\obj\Debug\InheritsForm.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\InheritsForm\obj\Debug\InheritsForm.pdb

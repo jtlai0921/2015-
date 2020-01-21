@@ -1,0 +1,12 @@
+C:\cs2015\ch13\constructor\bin\Debug\constructor.exe.config
+C:\cs2015\ch13\constructor\obj\Debug\constructor.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\constructor\obj\Debug\constructor.Form1.resources
+C:\cs2015\ch13\constructor\obj\Debug\constructor.Properties.Resources.resources
+C:\cs2015\ch13\constructor\obj\Debug\constructor.csproj.GenerateResource.Cache
+C:\cs2015\ch13\constructor\bin\Debug\constructor.exe
+C:\cs2015\ch13\constructor\bin\Debug\constructor.pdb
+C:\cs2015\ch13\constructor\obj\Debug\constructor.exe
+C:\cs2015\ch13\constructor\obj\Debug\constructor.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\constructor\bin\Debug\constructor.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\constructor\obj\Debug\constructor.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\constructor\obj\Debug\constructor.pdb

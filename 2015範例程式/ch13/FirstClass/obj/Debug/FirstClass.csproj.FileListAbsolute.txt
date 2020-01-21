@@ -1,0 +1,12 @@
+C:\cs2015\ch13\FirstClass\bin\Debug\FirstClass.exe.config
+C:\cs2015\ch13\FirstClass\bin\Debug\FirstClass.exe
+C:\cs2015\ch13\FirstClass\bin\Debug\FirstClass.pdb
+C:\cs2015\ch13\FirstClass\obj\Debug\FirstClass.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\FirstClass\obj\Debug\FirstClass.Properties.Resources.resources
+C:\cs2015\ch13\FirstClass\obj\Debug\FirstClass.csproj.GenerateResource.Cache
+C:\cs2015\ch13\FirstClass\obj\Debug\FirstClass.exe
+C:\cs2015\ch13\FirstClass\obj\Debug\FirstClass.pdb
+C:\cs2015\ch13\FirstClass\obj\Debug\FirstClass.Form1.resources
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\FirstClass\bin\Debug\FirstClass.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\FirstClass\obj\Debug\FirstClass.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\FirstClass\obj\Debug\FirstClass.pdb

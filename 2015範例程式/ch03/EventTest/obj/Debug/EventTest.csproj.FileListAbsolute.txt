@@ -1,0 +1,12 @@
+C:\cs2015基礎必修\ch03\EventTest\bin\Debug\EventTest.exe.config
+C:\cs2015基礎必修\ch03\EventTest\bin\Debug\EventTest.exe
+C:\cs2015基礎必修\ch03\EventTest\bin\Debug\EventTest.pdb
+C:\cs2015基礎必修\ch03\EventTest\obj\Debug\EventTest.csprojResolveAssemblyReference.cache
+C:\cs2015基礎必修\ch03\EventTest\obj\Debug\EventTest.Form1.resources
+C:\cs2015基礎必修\ch03\EventTest\obj\Debug\EventTest.Properties.Resources.resources
+C:\cs2015基礎必修\ch03\EventTest\obj\Debug\EventTest.csproj.GenerateResource.Cache
+C:\cs2015基礎必修\ch03\EventTest\obj\Debug\EventTest.exe
+C:\cs2015基礎必修\ch03\EventTest\obj\Debug\EventTest.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\EventTest\bin\Debug\EventTest.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\EventTest\obj\Debug\EventTest.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\EventTest\obj\Debug\EventTest.pdb

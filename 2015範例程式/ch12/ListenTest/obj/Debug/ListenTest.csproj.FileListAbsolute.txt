@@ -1,0 +1,12 @@
+C:\cs2015\ch12\ListenTest\bin\Debug\ListenTest.exe.config
+C:\cs2015\ch12\ListenTest\bin\Debug\ListenTest.exe
+C:\cs2015\ch12\ListenTest\bin\Debug\ListenTest.pdb
+C:\cs2015\ch12\ListenTest\obj\Debug\ListenTest.csprojResolveAssemblyReference.cache
+C:\cs2015\ch12\ListenTest\obj\Debug\ListenTest.Form1.resources
+C:\cs2015\ch12\ListenTest\obj\Debug\ListenTest.Properties.Resources.resources
+C:\cs2015\ch12\ListenTest\obj\Debug\ListenTest.csproj.GenerateResource.Cache
+C:\cs2015\ch12\ListenTest\obj\Debug\ListenTest.exe
+C:\cs2015\ch12\ListenTest\obj\Debug\ListenTest.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\ListenTest\bin\Debug\ListenTest.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\ListenTest\obj\Debug\ListenTest.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\ListenTest\obj\Debug\ListenTest.pdb

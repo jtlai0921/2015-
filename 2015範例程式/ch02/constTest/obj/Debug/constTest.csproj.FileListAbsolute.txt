@@ -1,0 +1,8 @@
+c:\cs2015\ch02\constTest\bin\Debug\constTest.exe.config
+c:\cs2015\ch02\constTest\bin\Debug\constTest.exe
+c:\cs2015\ch02\constTest\bin\Debug\constTest.pdb
+c:\cs2015\ch02\constTest\obj\Debug\constTest.Form1.resources
+c:\cs2015\ch02\constTest\obj\Debug\constTest.Properties.Resources.resources
+c:\cs2015\ch02\constTest\obj\Debug\constTest.csproj.GenerateResource.Cache
+c:\cs2015\ch02\constTest\obj\Debug\constTest.exe
+c:\cs2015\ch02\constTest\obj\Debug\constTest.pdb

@@ -1,0 +1,12 @@
+C:\cs2015基礎必修\ch03\Bill\bin\Debug\Bill.exe.config
+C:\cs2015基礎必修\ch03\Bill\bin\Debug\Bill.exe
+C:\cs2015基礎必修\ch03\Bill\bin\Debug\Bill.pdb
+C:\cs2015基礎必修\ch03\Bill\obj\Debug\Bill.csprojResolveAssemblyReference.cache
+C:\cs2015基礎必修\ch03\Bill\obj\Debug\Bill.Form1.resources
+C:\cs2015基礎必修\ch03\Bill\obj\Debug\Bill.Properties.Resources.resources
+C:\cs2015基礎必修\ch03\Bill\obj\Debug\Bill.csproj.GenerateResource.Cache
+C:\cs2015基礎必修\ch03\Bill\obj\Debug\Bill.exe
+C:\cs2015基礎必修\ch03\Bill\obj\Debug\Bill.pdb
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\Bill\bin\Debug\Bill.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\Bill\obj\Debug\Bill.exe
+D:\03基礎必修課\C#基礎必修課\C#2015基礎必修課\ch03\ch03範例\Bill\obj\Debug\Bill.pdb

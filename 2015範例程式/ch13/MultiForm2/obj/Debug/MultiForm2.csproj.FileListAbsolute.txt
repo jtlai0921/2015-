@@ -1,0 +1,13 @@
+C:\cs2015\ch13\MultiForm2\bin\Debug\MultiForm2.exe.config
+C:\cs2015\ch13\MultiForm2\bin\Debug\MultiForm2.exe
+C:\cs2015\ch13\MultiForm2\bin\Debug\MultiForm2.pdb
+C:\cs2015\ch13\MultiForm2\obj\Debug\MultiForm2.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\MultiForm2\obj\Debug\MultiForm2.frmBuy.resources
+C:\cs2015\ch13\MultiForm2\obj\Debug\MultiForm2.frmMenu.resources
+C:\cs2015\ch13\MultiForm2\obj\Debug\MultiForm2.Properties.Resources.resources
+C:\cs2015\ch13\MultiForm2\obj\Debug\MultiForm2.csproj.GenerateResource.Cache
+C:\cs2015\ch13\MultiForm2\obj\Debug\MultiForm2.exe
+C:\cs2015\ch13\MultiForm2\obj\Debug\MultiForm2.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\MultiForm2\bin\Debug\MultiForm2.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\MultiForm2\obj\Debug\MultiForm2.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\MultiForm2\obj\Debug\MultiForm2.pdb

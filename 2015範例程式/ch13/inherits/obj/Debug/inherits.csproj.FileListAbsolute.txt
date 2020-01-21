@@ -1,0 +1,12 @@
+C:\cs2015\ch13\inherits\bin\Debug\inherits.exe.config
+C:\cs2015\ch13\inherits\bin\Debug\inherits.exe
+C:\cs2015\ch13\inherits\bin\Debug\inherits.pdb
+C:\cs2015\ch13\inherits\obj\Debug\inherits.csprojResolveAssemblyReference.cache
+C:\cs2015\ch13\inherits\obj\Debug\inherits.Form1.resources
+C:\cs2015\ch13\inherits\obj\Debug\inherits.Properties.Resources.resources
+C:\cs2015\ch13\inherits\obj\Debug\inherits.csproj.GenerateResource.Cache
+C:\cs2015\ch13\inherits\obj\Debug\inherits.exe
+C:\cs2015\ch13\inherits\obj\Debug\inherits.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\inherits\bin\Debug\inherits.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\inherits\obj\Debug\inherits.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch13_1021\ch13範例\inherits\obj\Debug\inherits.pdb

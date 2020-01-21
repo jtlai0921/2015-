@@ -1,0 +1,11 @@
+C:\cs2015\ch12\Ellipse\bin\Debug\Ellipse.exe.config
+C:\cs2015\ch12\Ellipse\bin\Debug\Ellipse.exe
+C:\cs2015\ch12\Ellipse\bin\Debug\Ellipse.pdb
+C:\cs2015\ch12\Ellipse\obj\Debug\Ellipse.Form1.resources
+C:\cs2015\ch12\Ellipse\obj\Debug\Ellipse.Properties.Resources.resources
+C:\cs2015\ch12\Ellipse\obj\Debug\Ellipse.csproj.GenerateResource.Cache
+C:\cs2015\ch12\Ellipse\obj\Debug\Ellipse.exe
+C:\cs2015\ch12\Ellipse\obj\Debug\Ellipse.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\Ellipse\bin\Debug\Ellipse.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\Ellipse\obj\Debug\Ellipse.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\Ellipse\obj\Debug\Ellipse.pdb

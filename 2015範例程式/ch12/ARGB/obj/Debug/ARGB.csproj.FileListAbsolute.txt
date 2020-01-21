@@ -1,0 +1,12 @@
+C:\cs2015\ch12\ARGB\bin\Debug\ARGB.exe.config
+C:\cs2015\ch12\ARGB\bin\Debug\ARGB.exe
+C:\cs2015\ch12\ARGB\bin\Debug\ARGB.pdb
+C:\cs2015\ch12\ARGB\obj\Debug\ARGB.csprojResolveAssemblyReference.cache
+C:\cs2015\ch12\ARGB\obj\Debug\ARGB.Form1.resources
+C:\cs2015\ch12\ARGB\obj\Debug\ARGB.Properties.Resources.resources
+C:\cs2015\ch12\ARGB\obj\Debug\ARGB.csproj.GenerateResource.Cache
+C:\cs2015\ch12\ARGB\obj\Debug\ARGB.exe
+C:\cs2015\ch12\ARGB\obj\Debug\ARGB.pdb
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\ARGB\bin\Debug\ARGB.exe.config
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\ARGB\obj\Debug\ARGB.exe
+D:\Do\do_VC#\cs2015(基礎必修課)\完稿\ch12_1021\ch12\ARGB\obj\Debug\ARGB.pdb
